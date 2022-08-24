@@ -245,8 +245,8 @@ function esVocal(letra){
   if (vocales.includes(letra.toLowerCase())) {
    return "Es vocal";
    }
-   return "Dato incorrecto";
-  }
+  return "Dato incorrecto";
+}
 
 // No modificar nada debajo de esta línea
 // --------------------------------
